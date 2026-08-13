@@ -1,3 +1,5 @@
+# 36. Conte quantos números pares existem na lista.
+
 lista = [2, 6,8,3,7,17,9,20]
 pares = 0
 

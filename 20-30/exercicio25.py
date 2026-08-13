@@ -1,3 +1,5 @@
+# 25. Peça números até o usuário digitar 0 e mostre a soma deles.
+
 numeros = []
 numero = 2
 soma = 0

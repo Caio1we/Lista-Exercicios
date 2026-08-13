@@ -1,3 +1,5 @@
+# 20. Leia um ano e verifique se é bissexto.
+
 ano = int(input("Digite um ano: "))
 
 if ano % 4 == 0:

@@ -1,3 +1,5 @@
+# 39. Procure um número em uma lista e diga se ele existe.
+
 lista = [4,6,7,8,3,2,6,9,333,5]
 
 numeroprocurado = 8

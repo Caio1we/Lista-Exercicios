@@ -1,3 +1,5 @@
+# 40. Ordene uma lista em ordem crescente.
+
 lista = [42, 7, 19, 3, 88, 15, 23, 4, 91, 10]
 
 

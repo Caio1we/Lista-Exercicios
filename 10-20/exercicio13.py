@@ -1,3 +1,5 @@
+# 13. Leia a idade e informe se a pessoa é maior de idade.
+
 idade = int(input("Digite a sua idade: "))
 
 if idade >= 18:

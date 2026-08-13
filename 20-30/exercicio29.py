@@ -1,3 +1,5 @@
+# 29. Peça um número e calcule o fatorial.
+
 n = int(input("Digite um número: "))
 total = 1 
 

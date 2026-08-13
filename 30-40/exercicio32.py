@@ -1,3 +1,4 @@
+# 32. Leia 5 números e armazene em uma lista.
 
 lista = []
 

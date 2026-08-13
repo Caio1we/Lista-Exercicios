@@ -1,3 +1,5 @@
+# 26. Conte quantos números pares existem entre 1 e 50
+
 pares = []
 
 for n in range(51):

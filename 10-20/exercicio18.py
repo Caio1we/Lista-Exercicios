@@ -1,3 +1,5 @@
+# 18. Leia um número e diga se ele está entre 10 e 20
+
 numero = int(input("Digite um número: "))
 
 if numero >= 10:

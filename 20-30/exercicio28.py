@@ -1,3 +1,5 @@
+# 28. Leia 5 números e mostre quantos são positivos e quantos são negativos.
+
 numeros = []
 numerospositivos = []
 numerosnegativos = []

@@ -1,3 +1,5 @@
+# 34. Mostre o menor valor de uma lista.
+
 numeros = [57,58,57,32,78,3]
 menor = numeros[0]
 

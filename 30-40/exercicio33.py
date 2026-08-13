@@ -1,3 +1,5 @@
+# 33. Mostre o maior valor de uma lista.
+
 numeros = [57,58,57,32,78,3]
 maior = numeros[0]
 

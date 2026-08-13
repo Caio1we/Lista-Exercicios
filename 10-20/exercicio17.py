@@ -1,3 +1,5 @@
+# 17. Peça uma senha e verifique se está correta (ex: '1234').
+
 senha = 1234
 
 usuario = int(input("Digite sua senha:"))
